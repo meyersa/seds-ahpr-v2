@@ -1,0 +1,4 @@
+/*
+parachuteRelease.c
+Releases drogue parachute for initial descent 
+*/

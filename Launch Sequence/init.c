@@ -1,0 +1,4 @@
+/*
+init.c
+Initializes sensors to known location to prepare for updated locations
+*/

@@ -1,0 +1,4 @@
+/*
+test.c
+Tests all components before allowing rocket to start
+*/

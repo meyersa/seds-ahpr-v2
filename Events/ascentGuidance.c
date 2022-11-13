@@ -1,0 +1,4 @@
+/*
+guidanceSequence.c
+Adjusts gridfins based on xyz data for landing
+*/

@@ -1,0 +1,4 @@
+/*
+thrustVector.c
+Maintains rocket trajectory so rocket stays upright and on course
+*/
